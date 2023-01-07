@@ -13,7 +13,7 @@
 
 **Ссылка на проект**
 
-* [GitHub Pages](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+* [GitHub Pages](https://tatianabgn.github.io/russian-travel/)
 
 **Автор**
 
