@@ -5,9 +5,9 @@
   margin-bottom: 80px;
 }
 
-/*.place:last-child {
+.place:last-child {
   margin-bottom: 0;
-}*/
+}
 
 @media screen and (max-width: 1279px) {
   .place {
@@ -26,7 +26,7 @@
   
 @media screen and (max-width: 767px) {
   .place {
-    grid-template-columns: 320px;
+    grid-template-columns: 1fr;
     gap: 32px 0;
     margin-bottom: 50px;
   }

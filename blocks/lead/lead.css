@@ -1,7 +1,6 @@
 .lead {
   margin: 56px auto 0;
   max-width: 984px;
-  max-height: 1005px;
 }
 
 @media screen and (max-width: 1279px) {
@@ -14,13 +13,5 @@
 @media screen and (max-width: 1023px) {
   .lead {
     max-width: 100%;
-    margin: 48px auto 0;
-  }
-}
-  
-@media screen and (max-width: 767px) {
-  .lead {
-    max-width: calc(100% + 4px);
-    margin: 48px auto 0;
   }
 }
